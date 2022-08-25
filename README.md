@@ -1,4 +1,4 @@
-# Dice-Password-Generator
+# Dice Password Generator
 A simple password generator based on [EFF dice method](https://www.eff.org/dice).  
   
 ```
